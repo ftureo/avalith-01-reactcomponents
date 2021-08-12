@@ -1,0 +1,19 @@
+
+[
+  {
+    "name": "Pepsi", 
+    "price": 200, 
+    "description": "Pepsi, también conocida como Pepsi-Cola, es una gaseosa de cola", 
+    "stock": true
+  },
+  { "name": "Galletitas", 
+    "price": 120, 
+    "description": "Galletitas surtidas",
+    "stock": false
+  },
+  { "name": "Papas Lays", 
+    "price": 80, 
+    "description": "Las papas fritas Lays son mundialmente conocidas por su gran proporción de aire en cada paquete",
+    "stock": true
+  }
+]
